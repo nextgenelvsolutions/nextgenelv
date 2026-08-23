@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nextgenelvsolutions.in/sitemap.xml
+Sitemap: https://nextgenelvsolutions.github.io/nextgenelv/sitemap.xml
